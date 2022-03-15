@@ -1,0 +1,1 @@
+import{_ as a,o as r,b as t,F as o,d as e,f as n}from"./app.e4ea9ed7.js";const c={},s=e("h1",{id:"intro-page",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#intro-page","aria-hidden":"true"},"#"),n(" Intro Page")],-1),d=e("p",null,"Place your introducation and profile here.",-1);function i(_,l){return r(),t(o,null,[s,d],64)}var f=a(c,[["render",i]]);export{f as default};
