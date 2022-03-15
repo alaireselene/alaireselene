@@ -1,10 +1,3 @@
----
-home: true
-icon: home
-title: Giới thiệu
-footer: Vận hành bởi Github Page và vuepress-theme-hope
----
-
 # Introducion
 Hi 👋, I'm Nguyen Truong Son a.k.a Alaire Sena
 A passionate CS student from Hai Duong, Vietnam.
