@@ -1,5 +1,6 @@
 # Introducion
 Hi 👋, I'm Nguyen Truong Son a.k.a Alaire Sena
+
 A passionate CS student from Hai Duong, Vietnam.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaireselene&label=Profile%20views&color=0e75b6&style=flat" alt="alaireselene" /> </p>
@@ -17,7 +18,7 @@ A passionate CS student from Hai Duong, Vietnam.
 # Connect with me:
 <p>
 <a href="https://fb.com/sena.daydreamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sena.daydreamer" height="30" width="40" /></a>
-<a href="https://instagram.com/sena.laire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sena.laire" height="30" width="40" /></a>
+<a href="https://instagram.com/sena.alaire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sena.laire" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/s34n-nguy3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="s34n-nguy3n" height="30" width="40" /></a>
 </p>
 
