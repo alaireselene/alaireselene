@@ -3,19 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaireselene&label=Profile%20views&color=0e75b6&style=flat" alt="alaireselene" /> </p>
 
-- 🌱 I’m currently learning **React and MongoDB**
+- 🌱 I’m currently learning: **React and MongoDB**.
 
-- 👨‍💻 All of my projects are available at [(not now, sorry!)]((not now, sorry!))
+- 👨‍💻 All of my projects are available at **this Github page, as you can see**.
 
-- 📝 I regularly write articles on [(not now, sorry!)]((not now, sorry!))
+- 💬 Ask me about **High school's chemistry, if I know then I will answer you**.
 
-- 💬 Ask me about **High school's chemistry, if I know then I will answer you.**
+- 📫 How to reach me? Mail to **truongsondotcom@gmail.com**.
 
-- 📫 How to reach me **truongsondotcom@gmail.com**
-
-- 📄 Know about my experiences [(not now, sorry!)]((not now, sorry!))
-
-- ⚡ Fun fact **I'm nomad and sometime crazy.**
+- ⚡ Fun fact: **I'm nomad and sometime crazy**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
