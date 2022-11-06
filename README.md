@@ -9,7 +9,7 @@ A passionate CS student from Hai Duong, Vietnam.
 
 - 👨‍💻 All of my projects are available at **this Github page, as you can see**.
 
-- 💬 Ask me about **High school's chemistry, if I know then I will answer you**.
+- 💬 Ask me about **High school's chemistry, if I know then I will answer you**. Don't ask me Calculus and Algebra.
 
 - 📫 How to reach me? Mail to **truongsondotcom@gmail.com**.
 
@@ -17,8 +17,8 @@ A passionate CS student from Hai Duong, Vietnam.
 
 # Connect with me:
 <p>
-<a href="https://fb.com/sena.daydreamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sena.daydreamer" height="30" width="40" /></a>
-<a href="https://instagram.com/sena.alaire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sena.laire" height="30" width="40" /></a>
+<a href="https://fb.com/alaire.sena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaire.sena" height="30" width="40" /></a>
+<a href="https://instagram.com/sena.alaire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sena.alaire" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/s34n-nguy3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="s34n-nguy3n" height="30" width="40" /></a>
 </p>
 
